@@ -11,9 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
+    "mongodb": "^6.5.0",
     "moongose": "^1.0.0",
     "unir": "^0.0.1"
   },
-  "devDependencies": {},
   "description": ""
 }
